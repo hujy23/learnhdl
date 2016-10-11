@@ -80,7 +80,7 @@ endmodule
 
 仿真波形图：
 
-![](.\sim.png)
+![](./sim.png)
 
 开发板显示效果图：
 
