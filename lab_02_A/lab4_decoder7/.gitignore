@@ -5,7 +5,7 @@ iseconfig
 
 #Implementation
 ipcore_dir
-*.v
+#*.v
 *_summary.html
 *.gise
 
